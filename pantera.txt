@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+ "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="content-language" content="pl" />
+<meta name="keywords" content="konkurs, informatyka, informatyki,informatyczny, matematyka, matematyki, matematyczny, tygrysek, gimanazjalista, gimnazjalistów, gimnazjum, mazowsze, mazowiecki, radom, radomia, radomski, okręg, okręgowy" />
+<meta name="description" content="Oficjalna strona IV Konkursu Okręgu Radomskiego z informatyki i matematyki TYGRYSEK 2013/2014 dla uczniów gimnazjów byłego województwa radomskiego" />
+<meta name="author" content="Komisja Konkursowa Konkursu TYGRYSEK" />
+<meta name="copyright" content="Kozłowski Paweł - Przewodniczący Komisji Konkursowej" />
+<meta name="publisher" content="Komisja Konkursowa Konkursu TYGRYSEK" />
+<meta http-equiv="window-target" content="_top" /> 
+<meta name="robots" content="index,follow" />
+<link rel="shortcut icon" href="/grafika/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="news.xml" />
+<title>Konkurs dla gimnazjalistów z informatyki i matematyki TYGRYSEK</title>
+<link rel="stylesheet" type="text/css" href="/style/tygrysek4.css" />
+<script type="text/javascript" src="plakat.js"></script>
+</head>
+
+<body> 
+<div id="fb-root"></div>
+<script type="text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pl_PL/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="wrapper">
+<div id="mojAdvert">
+</div>
+<div id="Plakat">
+  <img src = "grafika/Plakat_TYGRYSEK_2013_2014_mini.jpg" alt="Plakat" title="Plakat"/>
+  <a href="grafika/TYGRYSEK_2013_2014.jpg" onclick="this.target='_blank'">Pobierz plakat do wydruku</a>
+  <div id="zamknijBox">
+    &otimes;
+  </div>
+</div> 
+<div id="baner">
+  <p id="midi">IV Konkurs Okręgu Radomskiego z informatyki i matematyki</p>
+  <p id="max">TYGRYSEK 2013/2014</p>
+  <p id="mini">dla uczniów gimnazjów byłego województwa radomskiego</p>
+  <div id="logo">
+  <img src="grafika/tygrysek.png" alt="Tygrysek"/>
+ </div>  
+</div>
+
+<div id="wrapper1">
+<div id="wrapper2">
+<div id="menu">
+  <span></span>
+  <a href="http://www.konkurs.pantera.com.pl/index.php" id="akt">Aktualności</a>
+  <a href="http://www.konkurs.pantera.com.pl/o_konkursie.php">O Konkursie</a>
+  <a href="http://www.konkurs.pantera.com.pl/regulamin.php">Regulamin</a>
+  <a href="http://www.konkurs.pantera.com.pl/nagrody.php">Nagrody</a>
+  <a href="http://www.konkurs.pantera.com.pl/terminarz.php">Terminarz</a>
+  <a href="https://www.konkurs.pantera.com.pl/rejestracja.php">Rejestracja</a>
+  <a href="http://www.konkurs.pantera.com.pl/zadania.php">Zadania I etapu</a>
+  <a href="https://www.konkurs.pantera.com.pl/wysylanie.php">Wysyłanie rozwiązań</a>
+  <a href="https://www.konkurs.pantera.com.pl/wyniki_I_etapu.php">Wyniki I etapu</a>
+  <a href="http://www.konkurs.pantera.com.pl/wyniki_II_etapu.php">Wyniki II etapu</a>
+  <a href="http://www.konkurs.pantera.com.pl/przydatne_zasoby.php">Przydatne zasoby</a>
+  <a href="http://www.konkurs.pantera.com.pl/archiwum.php">Archiwum Konkursów</a>
+  <a href="http://www.konkurs.pantera.com.pl/kontakt.php">Kontakt</a>
+  <span></span><span></span>
+</div>
+  <div id="min">
+  <a href="http://www.copyscape.com/dmca-takedown-notice-search" onclick="this.target='_blank'"><img src = "grafika/copyscape.jpg" alt="Protected by Copyscape DMCA Takedown Notice Checker" title="Zabezpieczone przez Copyscape Plagiarism Checker - Nie kopiuj zawartości tej strony." /></a>
+  </div>
+  <div id="licznik">
+  <p class="opis">Stronę odwiedzono:</p>
+  <p>
+  20244  </p>  
+  <p class="opis">razy od 16.02.2014</p>
+  </div>
+ <div id="licznik1">
+  <p class="opis">Łącznie:</p>
+  <p>
+  54448  </p>  
+  <p class="opis">razy od 24.11.2010</p>
+  <span></span>
+  <span></span> 
+  <div class="fb-like-box" data-href="http://www.facebook.com/Konkurs.Tygrysek" data-width="185" data-height="300" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
+  </div> 
+  <div id="sponsorzy">
+  <span></span>
+  <p>Organizatorzy</p>
+  <ul>
+  <li class="organizator">mgr inż. Paweł Kozłowski</li>
+  <li class="organizator">mgr inż. Marek Kozłowski</li>
+  </ul>
+  <p>Patronaty honorowe</p>
+  <ul>
+  <li class="honor_o">Andrzej Kosztowniak</li>
+  <li class="honor_i">Prezydent Miasta Radomia</li>
+  </ul>
+  <a href="http://www.radom.pl" onclick="this.target='_blank'"><img src = "grafika/radom.jpg" alt="Prezydent Miasta Radomia" title="Prezydent Miasta Radomia"/></a>
+  <span></span>
+  <ul>
+  <li class="honor_o">Mirosław Ślifirczyk</li>
+  <li class="honor_i">Starosta Radomski</li>
+  </ul>
+  <a href="http://www.radompowiat.pl" onclick="this.target='_blank'"><img src = "grafika/powiat_radomski.jpg" alt="Starosta Radomski" title="Starosta Radomski"/></a>
+  <span></span>
+  <ul>
+  <li class="honor_o">Dariusz Wójcik</li>
+  <li class="honor_i">Przewodniczący Rady Miejskiej w Radomiu</li>
+  </ul>  
+  <p>Patronaty instytucjonalne</p>
+  <a href="http://www.pjwstk.edu.pl" onclick="this.target='_blank'"><img src = "grafika/pjwstk.jpg" alt="Polsko-Japońska Wyższa Szkoła Technik Komputerowych" title="Polsko-Japońska Wyższa Szkoła Technik Komputerowych"/></a> 
+  <a href="http://www.snm.edu.pl" onclick="this.target='_blank'"><img src = "grafika/snm.jpg" alt="Stowarzyszenie Nauczycieli Matematyki" title="Stowarzyszenie Nauczycieli Matematyki"/></a> 
+  <p>Sponsorzy</p>
+  <span></span>
+  <a href="http://www.intel.pl" onclick="this.target='_blank'"><img src = "grafika/intel.png" alt="INTEL Polska" title="INTEL Polska"/></a>
+  <span></span>
+   <a href="http://www.komputronik.pl/kontakty/radom" onclick="this.target='_blank'"><img src = "grafika/komputronik.jpg" alt="Komputronik Radom" title="Komputronik Radom"/></a>
+  <span></span>
+  <a href="http://helion.pl" onclick="this.target='_blank'"><img src = "grafika/helion.jpg" alt="Wydawnictwo Helion" title="Wydawnictwo Helion"/></a>
+  <span></span> 
+  <a href="http://www.tme.eu/pl/" onclick="this.target='_blank'"><img src = "grafika/tme.jpg" alt="Transfer Multisort Elektronik Sp. z o.o." title="Transfer Multisort Elektronik Sp. z o.o."/></a>
+  <span></span>
+  <a href="http://www.btc.pl" onclick="this.target='_blank'"><img src = "grafika/btc.jpg" alt="Wydawnictwo BTC" title="Wydawnictwo BTC"/></a>
+  <span></span>
+  <a href="http://www.kamami.pl" onclick="this.target='_blank'"><img src = "grafika/kamami.jpg" alt="Kamami.pl - sklep internetowy dla elektroników" title="Kamami.pl - sklep internetowy dla elektroników"/></a>
+  <span></span>
+  <a href="http://www.aksjomat.torun.pl" onclick="this.target='_blank'"><img src = "grafika/aksjomat.jpg" alt="Wydawnictwo Aksjomat Toruń" title="Wydawnictwo Aksjomat Toruń"/></a>
+  <span></span>
+  <a href="http://www.tekom.pl" onclick="this.target='_blank'"><img src = "grafika/tekom.jpg" alt="Tekom Technologia Sp. z o.o." title="Tekom Technologia Sp. z o.o."/></a>
+  <span></span>
+  <a href="http://www.pantera.com.pl" onclick="this.target='_blank'"><img src = "grafika/pantera.png" alt="P.P.H.U. Pantera" title="P.P.H.U. Pantera"/></a>
+  <span></span>
+  <p>Patronaty medialne</p>
+  <span></span>
+  <a href="http://www.telewizja.radom.pl" onclick="this.target='_blank'"><img src = "grafika/dami.jpg" alt="Telewizja Dami" title="Telewizja Dami"/></a>
+  <span></span>
+  <a href="http://www.radiorekord.pl" onclick="this.target='_blank'"><img src = "grafika/radio_rekord.jpg" alt="Radio Rekord" title="Radio Rekord"/></a>
+  <a href="http://www.echodnia.eu/apps/pbcs.dll/section?Category=RADOMSKIE" onclick="this.target='_blank'"><img src = "grafika/echo_dnia.jpg" alt="Echo Dnia Radom" title="Echo Dnia Radom"/></a>
+  <a href="http://www.7dni.radom.pl" onclick="this.target='_blank'"><img src = "grafika/7dni.jpg" alt="7 Dni" title="7 Dni"/></a> 
+  <a href="http://www.mikab.pl" onclick="this.target='_blank'"><img src = "grafika/mikab.jpg" alt="Mik@b Studio Filmu i Fotografii" title="Mik@b Studio Filmu i Fotografii"/></a> 
+  <a href="http://www.drukarnia.po.prostu.pl" onclick="this.target='_blank'"><img src = "grafika/printschop.png" alt="Printschop" title="Printschop"/></a> 
+  </div> 
+<div id="tresc">
+  <h1>Aktualności</h1>
+  <h2><a href="http://www.konkurs.pantera.com.pl/news.xml"><img src="/grafika/xml.gif" alt="Subskrybuj kanał RSS" title="Subskrybuj kanał RSS"/></a></h2>
+  <p class="data">02.04.2014</p>
+  <p class="w">W odpowiedniej zakładce menu pojawiły się wyniki I etapu. Na e-maile finalistów przesano istotne informacje dotyczące sobotniego finału.</p><p class="linia"></p>
+  <p class="data">31.03.2014</p>
+  <p class="w">Pierwszy etap zakończył się w Niedzielę 30 marca 2014r. o godz. 24:00.</p><p class="linia"></p>  
+  <p class="data">30.03.2014</p>
+  <p class="w">Pierwszy etap kończy się już za mniej niż 24h. Na rozwiązania zadań czekamy do końca Niedzieli czyli do godz. 24:00.</p><p class="linia"></p>  
+  <p class="data">25.03.2014</p>
+  <p class="w">Przypominamy, że zgodnie z tegorocznym regulaminem opiekunem ucznia może być nauczyciel, rodzic lub dorosłe rodzeństwo oraz że może mieć pod opieką kilkoro uczestników finałów. Ważne jest też to, że w tej edycji konkursu nie będzie zadań z programowania.</p><p class="linia"></p>
+  <p class="data">21.03.2014</p>
+  <p class="w">Rozwiewamy wątpliwości. W zadaniu 2 z matematyki (piłkarzyki) piłka porusza się tylko po powierzchni tak jak w grze stołowej wiec np. dla gry czarnych nie można podać od zawodnika 3 do 7 bezpośrednio - prawidłowe podanie to 3-5-7. A w zadaniu 3 oczywiście każda litera ma inną cyfrę.</p><p class="linia"></p>
+  <p class="data">17.03.2014</p>
+  <p class="w">W dniu dzisiejszym udostępniono możliwość wysyłania zadan I etapu. Odpowiedzi będzie można wysyłać do dnia 30 marca włacznie do godz. 24:00 (czyli Niedzieli). Przed wysłaniem należy założyć i zatwierdzić konto. Prosimy pamietać, że przy tej samej ilości zdobytych punktów liczy się czas nadesłania rozwiązań. Do finału zakwalifikujemy najlepszą 15 uczestników. Cenne nagrody czekają. Nagrodzimy wszystkich finalistów i ich opiekunów !!!</p><p class="linia"></p>
+  <p class="data">10.03.2014</p>
+  <p class="w">W dniu dzisiejszym w menu „Zadania I etapu” udostępniono zadania I etapu. Odpowiedzi będzie można wysyłać od dnia 17 marca.</p><p class="linia"></p>
+  <p class="data">26.02.2014</p>
+  <p class="w">Ponieważ niektóre strony zestawiane są na tzw. bezpiecznym połączeniu może pojawić się okienko o nieznanym certyfikacie strony. Wtedy należy potwierdzić, że rozumie się zagrożenie i pobrać certyfikat wystawiony przez COMODO CA Limited dla NetArt Spółka Akcyjna S.K.A., czyli firmy hostującej naszą stronę. W menu „Rejestracja” umieszczono formularz rejestracyjny. Na weryfikację danych w nim zawartych jest czas 48h od momentu wpisania danych. Odpowiedni link aktywacyjny zostanie niezwłocznie wysłany na podany adres e-mail. Ważne aby był to adres prawidłowy. Przypominamy, że można się zarejestrować tylko raz. Prosimy o zanotowanie gdzieś danych rejestracyjnych, aby ich nie zapomnieć. Zachęcamy do rejestracji już teraz. Wkrótce, tj. 10 marca pojawią się zadania i będzie można wysyłać rozwiązania. Odpowiednia informacja pojawi się w aktualnościach.</p><p class="linia"></p>
+  <p class="data">16.02.2014</p>
+  <p class="w">W tym roku, tak jak w poprzednich edycjach przewidziane są cenne nagrody dla laureatów. Poza tym każdy finalista otrzyma atrakcyjne gadżety. W tej edycji tylko II etapy. Pierwszy etap wystartuje 10 marca (czyli tydzień po feriach zimowych). W tej edycji Konkursu nie będzie zadań z programowania!!! Zapraszamy do udziału.</p><p class="linia"></p>
+  <p class="data">16.02.2014</p>
+  <p class="w">LAST MINUTE. Serdecznie zapraszamy do współpracy firmy zainteresowane chęcią wsparcia finansowego lub ufundowania nagród w Konkursie w zamian za promocję firmy na materiałach reklamowych.
+               W związku z koniecznością wydruku plakatów, oraz wiążące się z tym ostateczne zamknięcie listy sponsorów, na deklaracje dotyczące współpracy firmy i instytucje mają czas do wtorku 18 lutego br. włącznie.</p><p class="linia"></p>
+  <p class="data">16.02.2014</p>
+  <p class="w">Wystartowała strona kolejnej edycji Konkursu TYGRYSEK. Materiał będzie na niej umieszczany sukcesywnie zgodnie z&nbsp;pojawiającymi się
+  wydarzeniami i&nbsp;terminami prac Komisji Konkursowej.</p><p class="linia"></p>
+</div>
+</div>
+</div>
+<div id="stopka">
+<div id="wrapper3">
+  <div id="a1">
+    <a href="http://validator.w3.org/check?uri=referer" onclick="this.target='_blank'"><img src="grafika/valid-xhtml11-blue.png" alt="Poprawy XHTML 1.1" title="Poprawny XHTML 1.1"/></a>
+  </div>
+  <div id="a2">
+    <a href="http://jigsaw.w3.org/css-validator/check/refere" onclick="this.target='_blank'"><img src="grafika/valid-css2-blue.png" alt="Poprawy CSS 2.1" title="Poprawny CSS 2.1"/></a>
+  </div>
+  <div id="apache">
+    <img src="grafika/apache.gif" alt="Powered by Apache" title="Powered by Apache"/>
+  </div>  
+  <div id="V230">
+    <img src="grafika/230V.gif" alt="Power On" title="Power On"/>
+  </div>
+  <div id="linux">
+    <img src="grafika/linuxinside.gif" alt="Linux inside" title="Linux inside"/>
+  </div>
+  <div id="copyright">
+    <p>&copy; Copyright: Konkurs TYGRYSEK, All Rights Reserved.</p>
+  </div> 
+</div>
+</div> 
+</div>
+</body>
+</html>
